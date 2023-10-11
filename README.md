@@ -1,2 +1,2 @@
-# Im-genes
+# Imagenes
 Imágenes para jupyter
